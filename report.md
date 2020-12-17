@@ -2,20 +2,17 @@
 
 ## Краткое описание
 
-17.12.2020 08.20 - 17.12.2020 было проведено функциональное тестирование приложения KeyValidator.
+17.12.2020 - 17.12.2020 было проведено функциональное тестирование приложения KeyValidator.
 
 На тестирование затрачено: 2 часа
 
 В результате тестирования выявлены следующие дефекты:
-* [Дефект №1](https://github.com/Arturich-ts/Java11/issues/1)
-* [Дефект №2](https://github.com/Arturich-ts/Java11/issues/2)
-* [Дефект №3](https://github.com/Arturich-ts/Java11/issues/3)
+* Не корректные ключи в руководстве пользования.
 
 ## Описание процесса тестирования
 
-В процессе тестирования использовались следующие артефакты*:
-* Баг-репорты
-* Отчет о тестировании
+В процессе тестирования использовались следующие артефакты:
+* [Тест-кейсы](https://docs.google.com/spreadsheets/d/1Xe33BMiizjCPeEg2VqM2WEif04rawGqXDjOoTij4dA4/edit?usp=sharing)
 
 
 В качестве тестовых данных использовались данные с [Github](https://github.com/netology-code/javaqa-homeworks/blob/master/intro/user-manual.md):
